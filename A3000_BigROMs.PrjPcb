@@ -71,23 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document2]
-DocumentPath=Acorn.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BVGBGODO
-
-[Document3]
 DocumentPath=C:\Users\IanJ\Documents\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document4]
+[Document3]
 DocumentPath=Acorn.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPCYBHBH
 
-[Document5]
+[Document4]
 DocumentPath=A3000_BigROMs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=A3000_BigROMs.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFSVMSNP
 
-[Document7]
+[Document6]
 DocumentPath=A3000_BigROMs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,6 +156,10 @@ GenerateClassCluster=0
 DocumentUniqueId=IVVXBSFL
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for A3000_BigROMs\Design Rule Check - A3000_BigROMs.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for A3000_BigROMs\Move Component(s) Origin To Grid - A3000_BigROMs.html
 DItemRevisionGUID=
 

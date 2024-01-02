@@ -1,6 +1,6 @@
 # Acorn A3000 "Big ROMs" board
 
-June 2023
+January 2024
 
 
 ![3D View](Generated/A3000_BigROMs_3D_View.PNG)
@@ -16,7 +16,7 @@ This has been tested in an A3000 and does work, however care needs to be taken a
 
 No warranty is provided, and this work is used at your own risk.  
 
-Licenced as CC BY-SA 3.0
+Licenced as CC BY-SA 4.0
 
-Copyright 2023 Ian Jeffray
+Copyright 2024 Ian Jeffray
 
